@@ -1,0 +1,52 @@
+F:\YandexDisk\3. Техноложка\4 курс 7 семестр\Разработка программных комплексов для исследований в химии и химической технологии\Programm\TechChemAnalytica\TechChemAnalytica\bin\Debug\TechChemAnalytica.exe.config
+F:\YandexDisk\3. Техноложка\4 курс 7 семестр\Разработка программных комплексов для исследований в химии и химической технологии\Programm\TechChemAnalytica\TechChemAnalytica\bin\Debug\TechChemAnalytica.exe
+F:\YandexDisk\3. Техноложка\4 курс 7 семестр\Разработка программных комплексов для исследований в химии и химической технологии\Programm\TechChemAnalytica\TechChemAnalytica\bin\Debug\TechChemAnalytica.pdb
+F:\YandexDisk\3. Техноложка\4 курс 7 семестр\Разработка программных комплексов для исследований в химии и химической технологии\Programm\TechChemAnalytica\TechChemAnalytica\obj\Debug\TechChemAnalytica.csproj.AssemblyReference.cache
+F:\YandexDisk\3. Техноложка\4 курс 7 семестр\Разработка программных комплексов для исследований в химии и химической технологии\Programm\TechChemAnalytica\TechChemAnalytica\obj\Debug\TechChemAnalytica.Properties.Resources.resources
+F:\YandexDisk\3. Техноложка\4 курс 7 семестр\Разработка программных комплексов для исследований в химии и химической технологии\Programm\TechChemAnalytica\TechChemAnalytica\obj\Debug\TechChemAnalytica.csproj.GenerateResource.cache
+F:\YandexDisk\3. Техноложка\4 курс 7 семестр\Разработка программных комплексов для исследований в химии и химической технологии\Programm\TechChemAnalytica\TechChemAnalytica\obj\Debug\TechChemAnalytica.csproj.CoreCompileInputs.cache
+F:\YandexDisk\3. Техноложка\4 курс 7 семестр\Разработка программных комплексов для исследований в химии и химической технологии\Programm\TechChemAnalytica\TechChemAnalytica\obj\Debug\TechChemAnalytica.exe
+F:\YandexDisk\3. Техноложка\4 курс 7 семестр\Разработка программных комплексов для исследований в химии и химической технологии\Programm\TechChemAnalytica\TechChemAnalytica\obj\Debug\TechChemAnalytica.pdb
+F:\YandexDisk\3. Техноложка\4 курс 7 семестр\Разработка программных комплексов для исследований в химии и химической технологии\Programm\TechChemAnalytica\TechChemAnalytica\obj\Debug\TechChemAnalytica.Authorization.resources
+F:\YandexDisk\3. Техноложка\4 курс 7 семестр\Разработка программных комплексов для исследований в химии и химической технологии\Programm\TechChemAnalytica\TechChemAnalytica\obj\Debug\TechChemAnalytica.Interface.resources
+F:\YandexDisk\3. Техноложка\4 курс 7 семестр\Разработка программных комплексов для исследований в химии и химической технологии\Programm\TechChemAnalytica\TechChemAnalytica\obj\Debug\TechChemAnalytica.Help.resources
+F:\YandexDisk\3. Техноложка\4 курс 7 семестр\Разработка программных комплексов для исследований в химии и химической технологии\Programm\TechChemAnalytica\TechChemAnalytica\obj\Debug\TechChemAnalytica.MaterialManager.resources
+F:\YandexDisk\3. Техноложка\4 курс 7 семестр\Разработка программных комплексов для исследований в химии и химической технологии\Programm\TechChemAnalytica\TechChemAnalytica\bin\Debug\DBMaterial.mdf
+F:\YandexDisk\3. Техноложка\4 курс 7 семестр\Разработка программных комплексов для исследований в химии и химической технологии\Programm\TechChemAnalytica\TechChemAnalytica\bin\Debug\DBMaterial_log.ldf
+F:\YandexDisk\3. Техноложка\4 курс 7 семестр\Разработка программных комплексов для исследований в химии и химической технологии\Programm\TechChemAnalytica\TechChemAnalytica\obj\Debug\TechChemAnalytica.DataUsers.resources
+F:\YandexDisk\3. Техноложка\4 курс 7 семестр\Разработка программных комплексов для исследований в химии и химической технологии\Programm\TechChemAnalytica\TechChemAnalytica\obj\Debug\TechChemAnalytica.csproj.ResolveComReference.cache
+D:\Yandex.Disk\3. Техноложка\4 курс 7 семестр (1)\Разработка программных комплексов для исследований в химии и химической технологии\Programm\TechChemAnalytica — копия\TechChemAnalytica\bin\Debug\DBMaterial.mdf
+D:\Yandex.Disk\3. Техноложка\4 курс 7 семестр (1)\Разработка программных комплексов для исследований в химии и химической технологии\Programm\TechChemAnalytica — копия\TechChemAnalytica\bin\Debug\DBMaterial_log.ldf
+D:\Yandex.Disk\3. Техноложка\4 курс 7 семестр (1)\Разработка программных комплексов для исследований в химии и химической технологии\Programm\TechChemAnalytica — копия\TechChemAnalytica\bin\Debug\TechChemAnalytica.exe.config
+D:\Yandex.Disk\3. Техноложка\4 курс 7 семестр (1)\Разработка программных комплексов для исследований в химии и химической технологии\Programm\TechChemAnalytica — копия\TechChemAnalytica\bin\Debug\TechChemAnalytica.exe
+D:\Yandex.Disk\3. Техноложка\4 курс 7 семестр (1)\Разработка программных комплексов для исследований в химии и химической технологии\Programm\TechChemAnalytica — копия\TechChemAnalytica\bin\Debug\TechChemAnalytica.pdb
+D:\Yandex.Disk\3. Техноложка\4 курс 7 семестр (1)\Разработка программных комплексов для исследований в химии и химической технологии\Programm\TechChemAnalytica — копия\TechChemAnalytica\obj\Debug\TechChemAnalytica.csprojAssemblyReference.cache
+D:\Yandex.Disk\3. Техноложка\4 курс 7 семестр (1)\Разработка программных комплексов для исследований в химии и химической технологии\Programm\TechChemAnalytica — копия\TechChemAnalytica\obj\Debug\TechChemAnalytica.csproj.ResolveComReference.cache
+D:\Yandex.Disk\3. Техноложка\4 курс 7 семестр (1)\Разработка программных комплексов для исследований в химии и химической технологии\Programm\TechChemAnalytica — копия\TechChemAnalytica\obj\Debug\TechChemAnalytica.Authorization.resources
+D:\Yandex.Disk\3. Техноложка\4 курс 7 семестр (1)\Разработка программных комплексов для исследований в химии и химической технологии\Programm\TechChemAnalytica — копия\TechChemAnalytica\obj\Debug\TechChemAnalytica.DataUsers.resources
+D:\Yandex.Disk\3. Техноложка\4 курс 7 семестр (1)\Разработка программных комплексов для исследований в химии и химической технологии\Programm\TechChemAnalytica — копия\TechChemAnalytica\obj\Debug\TechChemAnalytica.Help.resources
+D:\Yandex.Disk\3. Техноложка\4 курс 7 семестр (1)\Разработка программных комплексов для исследований в химии и химической технологии\Programm\TechChemAnalytica — копия\TechChemAnalytica\obj\Debug\TechChemAnalytica.Interface.resources
+D:\Yandex.Disk\3. Техноложка\4 курс 7 семестр (1)\Разработка программных комплексов для исследований в химии и химической технологии\Programm\TechChemAnalytica — копия\TechChemAnalytica\obj\Debug\TechChemAnalytica.MaterialManager.resources
+D:\Yandex.Disk\3. Техноложка\4 курс 7 семестр (1)\Разработка программных комплексов для исследований в химии и химической технологии\Programm\TechChemAnalytica — копия\TechChemAnalytica\obj\Debug\TechChemAnalytica.Properties.Resources.resources
+D:\Yandex.Disk\3. Техноложка\4 курс 7 семестр (1)\Разработка программных комплексов для исследований в химии и химической технологии\Programm\TechChemAnalytica — копия\TechChemAnalytica\obj\Debug\TechChemAnalytica.csproj.GenerateResource.cache
+D:\Yandex.Disk\3. Техноложка\4 курс 7 семестр (1)\Разработка программных комплексов для исследований в химии и химической технологии\Programm\TechChemAnalytica — копия\TechChemAnalytica\obj\Debug\TechChemAnalytica.csproj.CoreCompileInputs.cache
+D:\Yandex.Disk\3. Техноложка\4 курс 7 семестр (1)\Разработка программных комплексов для исследований в химии и химической технологии\Programm\TechChemAnalytica — копия\TechChemAnalytica\obj\Debug\TechChemAnalytica.exe
+D:\Yandex.Disk\3. Техноложка\4 курс 7 семестр (1)\Разработка программных комплексов для исследований в химии и химической технологии\Programm\TechChemAnalytica — копия\TechChemAnalytica\obj\Debug\TechChemAnalytica.pdb
+C:\Users\stud\Desktop\РПК Сапаев Кадиров\TechChemAnalytica\bin\Debug\DBMaterial.mdf
+C:\Users\stud\Desktop\РПК Сапаев Кадиров\TechChemAnalytica\bin\Debug\DBMaterial_log.ldf
+C:\Users\stud\Desktop\РПК Сапаев Кадиров\TechChemAnalytica\bin\Debug\TechChemAnalytica.exe.config
+C:\Users\stud\Desktop\РПК Сапаев Кадиров\TechChemAnalytica\bin\Debug\TechChemAnalytica.exe
+C:\Users\stud\Desktop\РПК Сапаев Кадиров\TechChemAnalytica\bin\Debug\TechChemAnalytica.pdb
+C:\Users\stud\Desktop\РПК Сапаев Кадиров\TechChemAnalytica\obj\Debug\TechChemAnalytica.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\РПК Сапаев Кадиров\TechChemAnalytica\obj\Debug\TechChemAnalytica.csproj.SuggestedBindingRedirects.cache
+C:\Users\stud\Desktop\РПК Сапаев Кадиров\TechChemAnalytica\obj\Debug\TechChemAnalytica.csproj.ResolveComReference.cache
+C:\Users\stud\Desktop\РПК Сапаев Кадиров\TechChemAnalytica\obj\Debug\TechChemAnalytica.Authorization.resources
+C:\Users\stud\Desktop\РПК Сапаев Кадиров\TechChemAnalytica\obj\Debug\TechChemAnalytica.DataUsers.resources
+C:\Users\stud\Desktop\РПК Сапаев Кадиров\TechChemAnalytica\obj\Debug\TechChemAnalytica.Help.resources
+C:\Users\stud\Desktop\РПК Сапаев Кадиров\TechChemAnalytica\obj\Debug\TechChemAnalytica.Interface.resources
+C:\Users\stud\Desktop\РПК Сапаев Кадиров\TechChemAnalytica\obj\Debug\TechChemAnalytica.MaterialManager.resources
+C:\Users\stud\Desktop\РПК Сапаев Кадиров\TechChemAnalytica\obj\Debug\TechChemAnalytica.Properties.Resources.resources
+C:\Users\stud\Desktop\РПК Сапаев Кадиров\TechChemAnalytica\obj\Debug\TechChemAnalytica.csproj.GenerateResource.cache
+C:\Users\stud\Desktop\РПК Сапаев Кадиров\TechChemAnalytica\obj\Debug\TechChemAnalytica.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\РПК Сапаев Кадиров\TechChemAnalytica\obj\Debug\TechChemAnalytica.exe
+C:\Users\stud\Desktop\РПК Сапаев Кадиров\TechChemAnalytica\obj\Debug\TechChemAnalytica.pdb
